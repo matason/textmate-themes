@@ -1,6 +1,8 @@
-h1. Resesif
+Resesif
+-------
 
-h2. For Textmate 2
+Resesif Theme for Textmate 2
+============================
 Resesif.tmbundle is an updated version of theme for Textmate 2.
 
 To install;
