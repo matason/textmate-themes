@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>soner@sonereker.com</string>
+	<key>contactName</key>
+	<string>Soner Eker</string>
+	<key>description</key>
+	<string>Resesif Theme</string>
+	<key>name</key>
+	<string>Resesif</string>
+	<key>uuid</key>
+	<string>9F665A71-3E54-46C4-B4BB-C72581637DDE</string>
+</dict>
+</plist>
